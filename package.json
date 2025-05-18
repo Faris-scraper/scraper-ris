@@ -1,0 +1,22 @@
+{
+  "name": "ris-scrape",
+  "version": "1.0.0",
+  "description": "Tiktok Scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faris-scraper/scraper-ris.git"
+  },
+  "keywords": [
+    "MIT"
+  ],
+  "author": "Faris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Faris-scraper/scraper-ris/issues"
+  },
+  "homepage": "https://github.com/Faris-scraper/scraper-ris#readme"
+}
