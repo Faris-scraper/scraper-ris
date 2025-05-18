@@ -32,3 +32,4 @@ async function tiktok(url) {
 
 module.exports = {
   tiktok
+}
